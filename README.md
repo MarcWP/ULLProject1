@@ -12,3 +12,4 @@ En la primera práctica ya se procedió a crear el repositorio requerido. Tras i
 ![alt tag](Imagenes/proyectoimag4.png)
 ![alt tag](Imagenes/proyectoimag5.PNG)
 ![alt tag](Imagenes/proyectoimag6.PNG)
+![alt tag](Imagenes/proyectoimag7.PNG)
