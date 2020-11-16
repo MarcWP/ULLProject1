@@ -33,50 +33,50 @@ Actividad 4
 En esta cuarta actividad se procederá a configurar Unity collab. Al carecer de grupo, el único miembro del collab deberé ser yo mismo. 
 Para ello, empezaremos seleccionando el botón "Collab" en la zona superior derecha del editor, presionando sobre el borron "Start now!".
 
-![alt tag](Imagenes/proyectoimag8.PNG)
+![alt tag](Imagenes/proyectoimag8.png)
 
 Seleccionamos un Unity ID. Si no tenemos uno creado, seleccionamos nuestro nombre de usuario y seleccionamos en "Create".
 
-![alt tag](Imagenes/proyectoimag9.PNG)
+![alt tag](Imagenes/proyectoimag9.png)
 
 Una vez creado el Unity ID, volvemos al botón "Collab" en la zona superior derecha del editor. Si apretamos en "Start now!", Unity comenzará a preparar unestro proyecto para ser utilizado en Unity Collaboration.
 
-![alt tag](Imagenes/proyectoimag10.PNG)
+![alt tag](Imagenes/proyectoimag10.png)
 
 Una vez finalizado el proceso, podremos empezar a utilizar Unity collab. Como ejemplo, creamos un cubo, guardamos la escena y publicamos los cambios a través de Collab.
 
-![alt tag](Imagenes/proyectoimag11.PNG)
+![alt tag](Imagenes/proyectoimag11.png)
 
 El proceso tardará en completarse, un función del número de cambios realizados.
 
-![alt tag](Imagenes/proyectoimag12.PNG)
+![alt tag](Imagenes/proyectoimag12.png)
 
 Al finalizar, los otros miembros deberían recibir un aviso acerca de los nuevos cambios. Si queremos agregar a nuevos participantes, nos basta con seleccionar el icono de grupos en la pestaña de Collab.
 
-![alt tag](Imagenes/proyectoimag13.PNG)
+![alt tag](Imagenes/proyectoimag13.png)
 
 En la nueva ventana, podremos gestionar los miembros del Collab. Presionamos Manage Seats para invitar a nuevos usuarios.
 
-![alt tag](Imagenes/proyectoimag16.PNG)
+![alt tag](Imagenes/proyectoimag16.png)
 
 En la zona izquierda, seleccionaremos "Members & Groups".
 
-![alt tag](Imagenes/proyectoimag17.PNG)
+![alt tag](Imagenes/proyectoimag17.png)
 
 Presionamos en "Add Members"
 
-![alt tag](Imagenes/proyectoimag18.PNG)
+![alt tag](Imagenes/proyectoimag18.png)
 
 En la nueva ventana introducimos el correo del nuevo participante, seleccionamos su rol y presionamos "Next".
 
-![alt tag](Imagenes/proyectoimag19.PNG)
+![alt tag](Imagenes/proyectoimag19.png)
 
 Enviamos una invitación al nuevo colaborador haciendo click en "Invite members".
 
 Tras invitar a los nuevos colaboradores, podremos agregarlos a nuestro proyecto de colaboración desde la ventana de gestión de grupos.
 
-![alt tag](Imagenes/proyectoimag14.PNG)
+![alt tag](Imagenes/proyectoimag14.png)
 
 Tras agregar a los nuevos miembros, se les enviará una invitación que deberán aceptar. Una vez aceptada, podrán descargar el proyecto desde la nube. Una vez dentro del proyecto, serán capaces de visualizar, subir y descargar cambios al proyecto desde la pestaña de Collab en el editor de Unity.
 
-![alt tag](Imagenes/proyectoimag15.PNG)
+![alt tag](Imagenes/proyectoimag15.png)
