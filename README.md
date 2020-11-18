@@ -30,7 +30,7 @@ Como se puede observar, tras el proceso, los ficheros en formato .fbx han sido a
 
 Actividad 4
 
-En esta cuarta actividad se procederá a configurar Unity collab. Al carecer de grupo, el único miembro del collab deberé ser yo mismo. 
+En esta actividad se procederá a configurar Unity collab. Al carecer de grupo, el único miembro del collab deberé ser yo mismo. 
 Para ello, empezaremos seleccionando el botón "Collab" en la zona superior derecha del editor, presionando sobre el borron "Start now!".
 
 ![alt tag](Imagenes/proyectoimag8.png)
@@ -80,3 +80,41 @@ Tras invitar a los nuevos colaboradores, podremos agregarlos a nuestro proyecto 
 Tras agregar a los nuevos miembros, se les enviará una invitación que deberán aceptar. Una vez aceptada, podrán descargar el proyecto desde la nube. Una vez dentro del proyecto, serán capaces de visualizar, subir y descargar cambios al proyecto desde la pestaña de Collab en el editor de Unity.
 
 ![alt tag](Imagenes/proyectoimag15.png)
+
+
+
+Actividad 5
+
+Para la quinta actividad se procederá a configurar una conexión entre un espacio de trabajo de Perforce y un proyecto de Unity. Para ello:
+
+Descargamos e instalamos el servidor Helix Core.
+
+![alt tag](Imagenes/proyectoimag21.png)
+
+Creamos el espacio de trabajo, especificando la ruta a utilizar.
+
+![alt tag](Imagenes/proyectoimag22.png)
+
+Abrimos la conexión.
+
+![alt tag](Imagenes/proyectoimag24.png)
+
+Configuramos la conexión por Perforce a nuestro espacio de trabajo mediante las opciones de nuestro proyecto de Unity.
+
+![alt tag](Imagenes/proyectoimag27.png)
+
+Tras hacer algún cambio en nuestra escena, guardamos y nos dirigimos al panel de Perforce. Bajo la pestaña de cambios pendientes podremos localizar los cambios que hemos realizado a nuestro proyecto.
+
+![alt tag](Imagenes/proyectoimag28.png)
+
+Seleccionamos los cambios pendientes, desplegamos el menú con el click derecho y seleccionamos "enviar". Confirmamos los ficheros a enviar.
+
+![alt tag](Imagenes/proyectoimag29.png)
+
+Podremos encontrar los ficheros modificados en nuestro depot del espacio de trabajo.
+
+![alt tag](Imagenes/proyectoimag30.png)
+
+También podremos localizar dichos cambios en nuestra carpeta de servidor de Perforce.
+
+![alt tag](Imagenes/proyectoimag31.png)
